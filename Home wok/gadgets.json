@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "Apple",
+        "type": "MacBook",
+        "color": "silvery",
+        "year": 2025
+    },
+    "2": {
+        "name": "Linux",
+        "type": "PC",
+        "color": "white",
+        "year": 2020
+    }
+}
